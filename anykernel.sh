@@ -12,10 +12,6 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=beryllium
 
-
-
-
-
 supported.versions=10,11
 supported.patchlevels=
 '; } # end properties
